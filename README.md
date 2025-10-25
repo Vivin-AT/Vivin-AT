@@ -67,8 +67,9 @@
 ### 🏆 Achievements & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vivin-AT&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1" alt="Vivin-AT GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vivin-AT&theme=radical&no-frame=true&margin-w=10&column=4" alt="Vivin AT GitHub Trophies" />
 </p>
+
 
 ---
 
