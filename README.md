@@ -64,18 +64,6 @@
 
 ---
 
-### 🏆 Achievements & Milestones
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vivin-AT&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
-<p align="center"><i>Recognitions for consistent coding, collaboration & open-source growth</i></p>
-
-
-
----
-
 ### 🎯 Career Highlights (Ongoing)
 
 - 🧠 **AI & Backend Developer** — Building intelligent systems with FastAPI and LLMs  
