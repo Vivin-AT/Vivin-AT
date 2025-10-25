@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Vivin-AT/Vivin-AT/blob/main/Vivin%20Anitha%20Thambidurai.png?raw=true" alt="Vivin AT Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Vivin</h1>
 <h3 align="center">AI & Backend Developer | MSc Advanced Computer Science | University of Sheffield</h3>
 
