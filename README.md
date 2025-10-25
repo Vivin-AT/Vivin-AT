@@ -67,8 +67,11 @@
 ### 🏆 Achievements & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vivin-AT&theme=radical&no-frame=true&margin-w=10&column=4" alt="Vivin AT GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vivin-AT&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
+
+<p align="center"><i>Recognitions for consistent coding, collaboration & open-source growth</i></p>
+
 
 
 ---
